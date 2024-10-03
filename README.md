@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ValentinaRamosRomero
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript and Java
-- 💞️ I’m looking to collaborate on Programming Projects
+- 🌱 I manage JavaScript and Java
+- 💞️ I’m looking to collaborate on Professional Programming Projects
 - 📫 How to reach me vramosr@unal.edu.co
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I like to care of my plants
