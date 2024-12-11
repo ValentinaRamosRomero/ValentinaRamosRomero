@@ -5,6 +5,7 @@
 - 📫 How to reach me vramosr@unal.edu.co
 - 😄 Pronouns: Her
 - Location: Bogotá, Colombia.
+- Portfolio Projects: https://portfolio-valentinarr.vercel.app/
 
 <!---
 ValentinaRamosRomero/ValentinaRamosRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
